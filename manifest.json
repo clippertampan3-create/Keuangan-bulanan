@@ -1,0 +1,11 @@
+{
+  "name": "Keuangan Bulanan",
+  "short_name": "Keuangan",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff5f7",
+  "theme_color": "#f15b7a",
+  "icons": [
+    {"src":"icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
